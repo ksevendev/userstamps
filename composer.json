@@ -1,0 +1,41 @@
+{
+    "name": "kseven/userstamps",
+    "description": "Laravel Userstamps provides an Eloquent trait which automatically maintains `created_by` and `updated_by` columns on your model, populated by the currently authenticated user in your application.",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "eloquent",
+        "userstamps",
+        "created_by",
+        "updated_by",
+        "deleted_by"
+    ],
+    "authors": [
+        {
+            "name": "KSeven",
+            "email": "contato@kseven.com.br"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "illuminate/support": "^9.0|^10.0|^11.0|^12.0"
+    },
+    "require-dev": {
+        "illuminate/database": "^9.0|^10.0|^11.0|^12.0",
+        "orchestra/testbench": "^7.0|^8.0|^9.0|^10.0",
+        "phpunit/phpunit": "^9.0|^10.0|^11.0|^12.0",
+        "laravel/pint": "^1.21"
+    },
+    "autoload": {
+        "psr-4": {
+            "KSeven\\Userstamps\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "KSeven\\Userstamps\\UserstampsServiceProvider"
+            ]
+        }
+    }
+}
