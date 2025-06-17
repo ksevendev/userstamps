@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Total Downloads](https://poser.pugx.org/ksevendev/userstamps/downloads)](https://packagist.org/packages/kseven/userstamps)
-[![Latest Stable Version](https://poser.pugx.org/ksevendev/userstamps/v)](https://packagist.org/packages/kseven/userstamps)
-[![License](https://poser.pugx.org/ksevendev/userstamps/license)](https://packagist.org/packages/kseven/userstamps)
+[![Total Downloads](https://poser.pugx.org/kseven/userstamps/downloads)](https://packagist.org/packages/kseven/userstamps)
+[![Latest Stable Version](https://poser.pugx.org/kseven/userstamps/v)](https://packagist.org/packages/kseven/userstamps)
+[![License](https://poser.pugx.org/kseven/userstamps/license)](https://packagist.org/packages/kseven/userstamps)
 
 </div>
 
